@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ClickHouse
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ashwinkrishnan2005@gmail.com
-- 😄 Pronouns:
+- 😄 Pronouns : HE
 - ⚡ Fun fact:  Experience the dopamine when you get output.
 
 <!---
