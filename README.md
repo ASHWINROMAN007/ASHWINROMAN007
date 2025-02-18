@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ASHWINROMAN007
 - 👀 I’m interested in MACHINE LEARNING
 - 🌱 I’m currently learning ClickHouse
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ashwinkrishnan2005@gmail.com
 - 😄 Pronouns : HE
 - ⚡ Fun fact:  Experience the dopamine when you get output.
