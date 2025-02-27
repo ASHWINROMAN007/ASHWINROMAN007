@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ASHWINROMAN007&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHWINROMAN007&theme=darcula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️  Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
