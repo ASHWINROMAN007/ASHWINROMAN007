@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ASHWINROMAN007<br>👀 I’m interested in MACHINE LEARNING<br>🌱 I’m currently learning ClickHouse<br>💞️ I’m looking to collaborate on .<br>📫 How to reach me ashwinkrishnan2005@gmail.com<br>😄 Pronouns : HE<br>⚡ Fun fact: Experience the dopamine when you get output.<br>Currently learning ClickHouse database.
-
+👋 Hi, I’m @ASHWINROMAN007<br>👀 I’m interested in MACHINE LEARNING<br>🌱 I’m currently learning ClickHouse<br>💞️ I’m looking to collaborate on .<br>📫 How to reach me ashwinkrishnan2005@gmail.com<br>😄 Pronouns : HE<br>⚡ Fun fact: Experience the dopamine when you get output.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashwin_empire_dr007) 
