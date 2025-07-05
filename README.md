@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ASHWINROMAN007&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHWINROMAN007&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=ASHWINROMAN007&theme=solarized-light&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ASHWINROMAN007&theme=solarized-light&hide_border=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
